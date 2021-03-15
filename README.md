@@ -1,2 +1,2 @@
-# invatcpp
-Ce am invatat eu in C++
+# C++ - ce invat eu
+* 1. Pointeri
